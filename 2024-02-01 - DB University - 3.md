@@ -134,4 +134,5 @@ WHERE
 GROUP BY
     exam_student.student_id, exam_student.exam_id;
 
+
 ```
